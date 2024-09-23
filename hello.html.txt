@@ -6,12 +6,5 @@
 	<body>
 		Hello
 		world
-
-	<script>
-		1console.log("Hello World")
-        	document.write("Hello World")
-	
-	</script>
-	
 	</body>
 </html>
